@@ -1,6 +1,7 @@
 {
     "name": "filipsedivy/kontrola-tachometru",
-    "description": "\uD83D\uDE98 Kontrola tachometu",
+    "description": "🚘 MDČR - kontrola tachometru",
+    "homepage": "https://www.kontrolatachometru.cz",
     "license": "MIT",
     "keywords": [
         "TODO"
