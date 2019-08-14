@@ -21,7 +21,11 @@
         }
     },
     "require": {
-        "php": ">=7.1"
+        "php": "^7.1",
+        "doctrine/collections": "^1.5",
+        "fabpot/goutte": "^3.2",
+        "google/cloud": "^0.107.1",
+        "guzzlehttp/guzzle": "^6.3"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
