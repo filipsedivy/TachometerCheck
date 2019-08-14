@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MDCR\\TachometerCheck": "src/MDCR/TachometerCheck"
+            "MDCR\\TachometerCheck\\": "src/MDCR/TachometerCheck"
         }
     },
     "require": {
