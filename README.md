@@ -4,7 +4,7 @@
 Install it using Composer:
 
 ```
-composer require filipsedivy/TachometerCheck
+composer require filipsedivy/tachometer-check
 ```
 
 
